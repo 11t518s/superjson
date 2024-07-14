@@ -3,7 +3,7 @@
   "exclude": ["**/*.spec.ts", "**/*.test.ts"],
   "compilerOptions": {
     "target": "ES2020",
-    "module": "ES6",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "lib": ["esnext"],
     "importHelpers": false,
